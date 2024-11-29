@@ -73,7 +73,7 @@ const AdminDashboard = () => {
                 <div className="col-md-12 mb-4">
                     <div className="card">
                         <div className="card-header bg-danger text-white">
-                            <h2 className="h5 mb-0">Geç Kalan Çalışanlar</h2>
+                            <h2 className="h5 mb-0">Bugün Geç Kalan Çalışanlar</h2>
                         </div>
                         <div className="card-body table-responsive">
                             <table className="table table-hover">
