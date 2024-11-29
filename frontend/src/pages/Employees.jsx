@@ -351,6 +351,7 @@ const Employees = () => {
                                     <label htmlFor="annual_leave_days" className="form-label">Yıllık İzin Günleri</label>
                                     <input 
                                         type="number" 
+                                        step="0.1"
                                         className="form-control" 
                                         id="annual_leave_days" 
                                         name="annual_leave_days"
